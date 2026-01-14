@@ -1,2 +1,2 @@
 # india-education-budget-powerbi
-Power BI dashboard analyzing India’s education budget trends, department-wise allocation, and share of the Union Budget using budget figures.
+Analysis of India’s education budget using Power BI, focusing on spending trends, internal allocation, and relative budgetary priority.
