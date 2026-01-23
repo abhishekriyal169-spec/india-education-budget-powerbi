@@ -24,7 +24,7 @@ Education’s share in the Union Budget has declined since the early 2010s, decr
 
 
 ## Dashboard Preview
-![Education Budget Dashboard Overview](powerbi\\education\_budget\_dashboard.png)
+[Education Budget Dashboard Overview](powerbi\\education\_budget\_dashboard.png)
 
 
 
@@ -36,6 +36,7 @@ Education’s share in the Union Budget has declined since the early 2010s, decr
 
 ## Data Disclaimer
 This project uses publicly available budget data. No personal or sensitive data is included.
+
 
 
 
